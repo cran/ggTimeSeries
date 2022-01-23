@@ -1,4 +1,4 @@
-## ----setup, include = FALSE----------------------------------------------
+## ----setup, include = FALSE---------------------------------------------------
 knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>",
@@ -6,7 +6,7 @@ knitr::opts_chunk$set(
   fig.height = 3
 )
 
-## ----initialisation, echo = FALSE, message = F, warning = F--------------
+## ----initialisation, echo = FALSE, message = F, warning = F-------------------
 library(ggthemes)
 library(ggplot2)
 library(data.table)
@@ -38,7 +38,7 @@ print("Excel 97 look recreated in R with the ggthemes package")
 plot(Excel97Plot)
 
 
-## ----minimalTheme--------------------------------------------------------
+## ----minimalTheme-------------------------------------------------------------
 minimalTheme = theme_set(theme_bw(12))
 minimalTheme = theme_update(
    axis.ticks = element_blank(), 
@@ -98,7 +98,7 @@ p2 +
 
 
 
-## ----horizon, fig.align = 'center', echo = TRUE, message = F, warning = F----
+## ----horizon, fig.align = 'center', echo = TRUE, message = F, warning = F-----
 
 # creating some data
 set.seed(1)

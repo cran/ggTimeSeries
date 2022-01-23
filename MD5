@@ -1,4 +1,4 @@
-18c428279dcf25daac76184beb8cac5a *DESCRIPTION
+d3a43cfcad958d34a39ddf698dcaebb4 *DESCRIPTION
 cd3d5255d783300a35a75c5a441bfdfd *LICENSE
 e63a247e3756487c72f0d1b37c477386 *NAMESPACE
 42f9b66f2013accd588a681213f84e8f *NEWS.md
@@ -11,13 +11,13 @@ e63a247e3756487c72f0d1b37c477386 *NAMESPACE
 2384e875edfad9193bb87be073682650 *R/stat_marimekko.R
 f56bb5933fc5c6008fff1af5313f2ff2 *R/stat_occurrence.R
 71e48f5eb99a3b4b183ab76f38235ec2 *R/stat_steamgraph.R
-85290fac207943662e55548578543b79 *R/stat_waterfall.R
+c92db5146d9558f5e20f1b10daec0da9 *R/stat_waterfall.R
 a1ed35969ee0101bf3f1d3682fecb552 *README.md
-f158a4647425e366ddfa3e10a1fcff06 *build/vignette.rds
+bca4424d8a17bffff81f9552ae5cba92 *build/vignette.rds
 0d20951ff2e49c38ef17f4f43f6d9d0b *data/dtClimate.rda
-473648a8dd68c3c817b82baab65b842a *inst/doc/ggTimeSeries.R
+0ff4b9bd48b912cd5390a42a56ca588c *inst/doc/ggTimeSeries.R
 8dd2b91d80c591259c5df8b0efd90af4 *inst/doc/ggTimeSeries.Rmd
-5c2f5f6ec35c70fe26ea52d9f05bb035 *inst/doc/ggTimeSeries.html
+fbf6a66d67fe180cece58f4d60626c5e *inst/doc/ggTimeSeries.html
 0092977f4144bedc478af1cb091dda7d *man/Marimekkofy.Rd
 abe3cb46c5c76a152867dabbc17f9666 *man/StatCalendarMonthBreaks.Rd
 34c6fb7fd88994cf2947c388e88b9531 *man/StatHorizon.Rd

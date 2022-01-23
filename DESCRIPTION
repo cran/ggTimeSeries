@@ -1,17 +1,17 @@
 Package: ggTimeSeries
 Type: Package
 Title: Time Series Visualisations Using the Grammar of Graphics
-Version: 1.0.1
-Date: 2018-08-17
-Maintainer: Aditya Kothari <aditya.kothari@atherenergy.com>
+Version: 1.0.2
+Date: 2022-01-17
+Maintainer: Aditya Kothari <mail.thecomeonman@gmail.com>
 Authors@R: c(
-    person(given = "Aditya", family = "Kothari", email = "aditya.kothari@atherenergy.com", role = c("aut","cre")), 
-    person(given = "Ather", family = "Energy", email = "info@atherenergy.com", role = "cph"),
-    person(given = "Jesse", family = "Vent", email = "cryptopackage@icloud.com", role = "ctb", comment="Ensuring the package met CRAN requirements")
+    person("Aditya", "Kothari", , "mail.thecomeonman@gmail.com", role = c("cre","aut")),
+    person("Ather Energy", role = "cph"),
+    person("Jesse","Vent", , role = "ctb")
     )
-Description: Provides additional display mediums for time series visualisations, such as calendar heat map, steamgraph, marimekko, etc.
-URL: https://github.com/Ather-Energy/ggTimeSeries
-BugReports: https://github.com/Ather-Energy/ggTimeSeries/issues
+Description: Provides additional display mediums for time series visualisations.
+URL: https://github.com/thecomeonman/ggTimeSeries
+BugReports: https://github.com/thecomeonman/ggTimeSeries/issues
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
@@ -21,9 +21,9 @@ RoxygenNote: 6.1.0
 Suggests: knitr, rmarkdown, ggthemes, prettydoc
 VignetteBuilder: knitr, rmarkdown
 NeedsCompilation: no
-Packaged: 2018-09-02 06:03:49 UTC; ask
-Author: Aditya Kothari [aut, cre],
+Packaged: 2022-01-23 16:03:36 UTC; a
+Author: Aditya Kothari [cre, aut],
   Ather Energy [cph],
-  Jesse Vent [ctb] (Ensuring the package met CRAN requirements)
+  Jesse Vent [ctb]
 Repository: CRAN
-Date/Publication: 2018-09-03 11:30:10 UTC
+Date/Publication: 2022-01-23 16:22:42 UTC
